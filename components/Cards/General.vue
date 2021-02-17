@@ -9,7 +9,7 @@
         {{ desc }}
       </p>
       <v-btn class="button" color="secondary">
-        See Detail
+        Więcej
       </v-btn>
     </v-card>
   </v-card>

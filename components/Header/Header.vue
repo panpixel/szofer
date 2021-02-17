@@ -125,7 +125,7 @@
 </style>
 
 <script>
-import logo from '~/static/images/architect-logo.svg'
+import logo from '~/static/images/logo-szoferwkapeluszu.png'
 import link from '~/static/text/link'
 import brand from '~/static/text/brand'
 import navMenu from './menu'
