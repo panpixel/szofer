@@ -1,0 +1,128 @@
+[
+  {
+    "name": "blank-page___en",
+    "path": "/blank-page",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_71e1964c"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1d4d59ec"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar/",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6beef29e"
+  },
+  {
+    "name": "blank-page___ar",
+    "path": "/ar/blank-page",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_71e1964c"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/ar/contact",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1d4d59ec"
+  },
+  {
+    "name": "index___de",
+    "path": "/de/",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6beef29e"
+  },
+  {
+    "name": "blank-page___de",
+    "path": "/de/blank-page",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_71e1964c"
+  },
+  {
+    "name": "contact___de",
+    "path": "/de/contact",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1d4d59ec"
+  },
+  {
+    "name": "index___id",
+    "path": "/id/",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6beef29e"
+  },
+  {
+    "name": "blank-page___id",
+    "path": "/id/blank-page",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_71e1964c"
+  },
+  {
+    "name": "contact___id",
+    "path": "/id/contact",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1d4d59ec"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt/",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6beef29e"
+  },
+  {
+    "name": "blank-page___pt",
+    "path": "/pt/blank-page",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_71e1964c"
+  },
+  {
+    "name": "contact___pt",
+    "path": "/pt/contact",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1d4d59ec"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh/",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6beef29e"
+  },
+  {
+    "name": "blank-page___zh",
+    "path": "/zh/blank-page",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_71e1964c"
+  },
+  {
+    "name": "contact___zh",
+    "path": "/zh/contact",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1d4d59ec"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "F:\\\\Nuxt\\\\szofer\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6beef29e"
+  }
+]
