@@ -19,9 +19,12 @@
           <div :class="[isTablet ? 'space-top-short' : 'space-top']">
             <about />
           </div>
-          <div class="space-top-short">
-            <team />
-          </div>
+          <section id="pricing" class="space-top">
+          <pricing-plan />
+        </section>
+        <section id="faq" class="space-top-short">
+          <faq />
+        </section> 
           <div>
             <counter />
           </div>
@@ -93,7 +96,8 @@ import Services from '~/components/Services'
 import Project from '~/components/Project'
 import Featured from '~/components/Featured'
 import About from '~/components/About'
-import Team from '~/components/Team'
+import PricingPlan from '~/components/PricingPlan'
+import Faq from '~/components/Faq' 
 import Counter from '~/components/Counter'
 import Blog from '~/components/Blog'
 import SubscribeForm from '~/components/SubscribeForm'
@@ -111,7 +115,8 @@ export default {
     Project,
     Featured,
     About,
-    Team,
+    PricingPlan,
+    Faq, 
     Counter,
     Blog,
     SubscribeForm,
