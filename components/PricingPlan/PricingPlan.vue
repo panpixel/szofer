@@ -6,16 +6,15 @@
       </svg>
     </div>
     <v-container :class="{ fixed: isDesktop }">
-      <div class="item">
-        <title-main align="center">
-          <strong>
-            {{ $t('saasLanding.pricing_title') }}
-          </strong>
-        </title-main>
-      </div>
-      <p class="subtitle use-text-subtitle2 text-center">
-        {{ $t('saasLanding.pricing_subtitle') }}
-      </p>
+      
+             <title-main
+        :head="$t('architectLanding.pricing_title')"
+        :desc="$t('architectLanding.pricing_subtitle')"
+      />
+      </v-container>
+      <v-container class="fixed-width">
+      <v-row class="spacing8 grid">
+        <v-col md="4" cols="12">
       <div class="pricing-wrap">
         <u-animate-container>
           <u-animate
@@ -28,7 +27,7 @@
             <pricing-card
               :price="0"
               :feature-list="feature.basic"
-              title="Basic"
+              title="Podstawowa"
               desc="Interdum et malesuada fames ac ante ipsum primis in faucibus. "
               type="basic"
             />
@@ -41,9 +40,9 @@
             class="item"
           >
             <pricing-card
-              :price="24"
+              :price="600"
               :feature-list="feature.best"
-              title="Best Value"
+              title="Najlepsza opcja"
               desc="Interdum et malesuada fames ac ante ipsum primis in faucibus. "
               type="value"
             />
@@ -72,12 +71,14 @@
             <pricing-card
               :price="99"
               :feature-list="feature.enterprise"
-              title="Enterprise"
+              title="Premium"
               desc=" Interdum et malesuada fames ac ante ipsum primis in faucibus. "
             />
           </u-animate>
         </u-animate-container>
       </div>
+        </v-col>
+      </v-row>
     </v-container>
   </div>
 </template>
@@ -97,11 +98,11 @@ const featureList = {
     'Quisque ut metus'
   ],
   best: [
-    'Nam sollicitudin dignissim',
-    'Cras convallis lacus',
-    'Quisque ut metus',
-    'Vivamus sit amet',
-    'Cras convallis lacus orci'
+    '4 godziny',
+    'Przyjazd po Pana Młodego',
+    'Przejazd do Pani Młodej',
+    'Przejazd do Kościoła lub Urzędu Stanu Cywilnego',
+    'Przejazd na salę Weselną'
   ],
   pro: [
     'Nam sollicitudin dignissim',

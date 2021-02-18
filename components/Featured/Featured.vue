@@ -34,7 +34,7 @@
                 <v-btn
                   icon
                   class="play-btn"
-                  @click="handleVideoOpen('ZGn8kSV9gAA')"
+                  @click="handleVideoOpen('tQ90Ty2q88E')"
                 >
                   <v-icon>mdi-play</v-icon>
                 </v-btn>

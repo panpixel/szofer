@@ -37,16 +37,13 @@
             <div class="paper-wrap">
               <v-card class="paper">
                 <div>
-                  <h4 class="use-text-title2">
+                  <h1 class="use-text-title2">
                     {{ $t('architectLanding.banner_title') }}
-                  </h4>
+                  </h1>
                   <p class="subtitle use-text-subtitle2">
                     {{ $t('architectLanding.banner_desc') }}
                   </p>
-                  <v-btn large color="primary" class="button">
-                    {{ $t('architectLanding.banner_btn') }}
-                  </v-btn>
-                </div>
+                                 </div>
               </v-card>
             </div>
           </v-col>

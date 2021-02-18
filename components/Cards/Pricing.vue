@@ -6,7 +6,7 @@
     <div class="title-card">
       <p>{{ title }}</p>
       <h4 class="display-1">
-        <span v-if="price > 0">$</span>{{ calculatePrice }}
+        <span v-if="price > 0"></span>{{ calculatePrice }} zł
       </h4>
     </div>
     <ul>
@@ -21,7 +21,7 @@
         class="button"
         large
       >
-        Choose Plan
+        WYBIERZ SWÓJ PAKIET
       </v-btn>
     </div>
   </v-card>

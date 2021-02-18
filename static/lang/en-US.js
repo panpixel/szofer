@@ -43,15 +43,15 @@ export default () => {
         "header_theme": "theme mode",
         "header_dark": "dark",
         "header_light": "light",
-        "banner_title": "Białe auto do ślubu, Volvo XC 60",
-        "banner_desc": "Architectural services include design, preparation of construction documents, and construction administration.",
+        "banner_title": "białe AUTO DO ŚLUBU, Volvo XC 60",
+        "banner_desc": "Wynajem samochodu do ślubu wraz z kierowcą. Auto to VOLVO XC60 z roku 2020 w pakiecie stylizacyjny R-DESIGN w kolorze białym, wnętrze czarne skórzane.",
         "banner_btn": "see more",
-        "services_title": "Wynajem samochodu do ślubu",
-        "services_desc": "Dlaczego warto ze mną współpracować?",
+        "services_title": "Samochód do ślubu - wynajem",
+        "services_desc": "Dlaczego szofer w kapeluszu?",
         "services_item1": "Zadowolenie",
-        "services_itemdesc1": "Your architect will begin by preparing design sketches based on your requirements and budget to explore possible options.",
-        "services_item2": "Working with an Architect",
-        "services_itemdesc2": "An architect does a lot more than just provide you with a set of drawings, they will guide you through the planning process",
+        "services_itemdesc1": "Najważniejsze jest wasze zadowolenie i dobry efekt wykonanej pracy.",
+        "services_item2": "Dostępność",
+        "services_itemdesc2": "Przejrzysta dostępność terminów.",
         "services_item3": "Architectural Technology",
         "services_itemdesc3": "Our technology develop specialisations in particular areas, such as specification writing, technology, materials, and regulations",
         "project_title": "Latest Project",
@@ -71,7 +71,10 @@ export default () => {
         "subscribe_title": "Stay in touch",
         "subscribe_subtitle": "Subscribe to our newsletter and stay updated on the latest developments and special offers!",
         "subscribe_input": "Enter your email address",
-        "subscribe_subscribe": "Subscribe"
+        "subscribe_subscribe": "Subscribe",
+        "pricing_title": "Pricing & Plan",
+        "pricing_subtitle": "Ile kosztuje samochód na wesele?",
+        "faq_subtitle": "Have a question? Check out our frequently asked questions to find your answer."
       }
     })
   })

@@ -19,16 +19,17 @@
           <div :class="[isTablet ? 'space-top-short' : 'space-top']">
             <about />
           </div>
-          <section id="pricing" class="space-top">
+     
+          <div>
+            <counter />
+          </div>
+        </section>
+        <section id="pricing" class="space-top">
           <pricing-plan />
         </section>
         <section id="faq" class="space-top-short">
           <faq />
         </section> 
-          <div>
-            <counter />
-          </div>
-        </section>
         <div id="blog" class="space-top-short">
           <blog />
         </div>

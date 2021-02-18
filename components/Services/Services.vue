@@ -10,12 +10,10 @@
       <v-row class="spacing8 grid">
         <v-col md="4" cols="12">
           <div class="figure">
-            <svg class="fill">
-              <use xlink:href="/images/architect/services-fill-1.svg#main" />
-            </svg>
-            <svg class="outline">
-              <use xlink:href="/images/architect/services-outline-1.svg#main" />
-            </svg>
+            
+              <img src="/images/architect/auto-do-slubu-szofer-w-kapeluszu-logo.png" />
+           
+            
           </div>
           <h5 class="use-text-subtitle2">
             {{ $t('architectLanding.services_item1') }}
@@ -26,12 +24,7 @@
         </v-col>
         <v-col md="4" cols="12">
           <div class="figure">
-            <svg class="fill">
-              <use xlink:href="/images/architect/services-fill-2.svg#main" />
-            </svg>
-            <svg class="outline">
-              <use xlink:href="/images/architect/services-outline-2.svg#main" />
-            </svg>
+            <img src="/images/architect/auto-do-slubu-szofer-w-kapeluszu-logo.png" />
           </div>
           <h5 class="use-text-subtitle2">
             {{ $t('architectLanding.services_item2') }}
