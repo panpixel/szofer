@@ -128,7 +128,7 @@ export default {
   },
   head() {
     return {
-      title: brand.architect.name + ' - Home Page'
+      title: brand.architect.name + ' - samochód do Ślubu'
     }
   },
   computed: {

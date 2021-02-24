@@ -17,7 +17,7 @@
         <v-col md="5" cols="12" class="illus-wrap py-0">
           <hidden point="smDown">
             <div>
-              <img :src="imgAPI.architect[8]" alt="3d home model" class="illustration" />
+              <img :src="imgAPI.architect[8]" alt="Auto do ślubu" class="illustration" />
             </div>
           </hidden>
         </v-col>

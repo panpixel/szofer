@@ -37,7 +37,7 @@ const imgAPI = {
     'https://via.placeholder.com/700x462/52596b/FFFFFF',
     'https://via.placeholder.com/700x463/8e8e8e/FFFFFF',
     'https://via.placeholder.com/700x463/52596b/FFFFFF',
-    '/images/architect/home.png',
+    '/images/szofer/bg-volvo-xc-60-h414.png',
     '/images/architect/architect_team.png',
     '/images/architect/architect_team.png',
     '/images/architect/architect_team.png',

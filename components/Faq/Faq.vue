@@ -12,7 +12,7 @@
             class="text use-text-subtitle2"
             :class="[isMobile ? 'text-center' : 'text-left']"
           >
-            {{ $t('saasLanding.faq_subtitle') }}
+            {{ $t('architectLanding.faq_subtitle') }}
           </p>
           <hidden point="smDown">
             <div class="illustration">
@@ -58,7 +58,7 @@
 <script>
 import Hidden from '../Hidden'
 import ParallaxMedium from '../Parallax/Medium'
-import Title from '../Title'
+import Title from '../TitleFaq'
 
 const faqData = [
   {
