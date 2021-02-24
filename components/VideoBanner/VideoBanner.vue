@@ -14,7 +14,7 @@
     <v-container :class="{fixed: !isMobile}" class="banner-wrap">
       <div class="video">
         <div class="overlay" />
-        <img v-if="!play || isMobile" :src="imgAPI.architect[0]" alt="cover" />
+        <img v-if="!play || isMobile" :src="imgAPI.architect[0]" alt="szofer w kapeluszu, auto do ślubu" />
         <div v-if="yt.use">
           <youtube
             v-if="isDesktop"

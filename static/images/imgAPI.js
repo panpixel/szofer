@@ -29,7 +29,7 @@ const imgAPI = {
     'https://via.placeholder.com/640x425/c4cdff/757575'
   ],
   architect: [
-    'https://via.placeholder.com/1200x705/0fad41/FFFFFF',
+    '/images/szofer/szofer-w-kapeluszu.jpg',
     '/images/szofer/auto-do-slubu-volvoxc60.jpg',
     '/images/szofer/auto-do-slubu-volvoxc60.jpg',
     '/images/szofer/auto-do-slubu-volvoxc60.jpg',
