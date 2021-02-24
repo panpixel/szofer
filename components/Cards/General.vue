@@ -3,15 +3,7 @@
     <figure>
       <img :src="img" :alt="title" />
     </figure>
-    <v-card class="desc">
-      <h6 class="title pb-2">{{ title }}</h6>
-      <p class="use-text-paragraph">
-        {{ desc }}
-      </p>
-      <v-btn class="button" color="secondary">
-        Więcej
-      </v-btn>
-    </v-card>
+   
   </v-card>
 </template>
 

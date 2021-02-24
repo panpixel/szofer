@@ -30,9 +30,9 @@ const imgAPI = {
   ],
   architect: [
     'https://via.placeholder.com/1200x705/0fad41/FFFFFF',
-    'https://via.placeholder.com/270x320/189a96/FFFFFF',
-    'https://via.placeholder.com/270x320/189a96/FFFFFF',
-    'https://via.placeholder.com/270x320/189a96/FFFFFF',
+    '/images/szofer/auto-do-slubu-volvoxc60.jpg',
+    '/images/szofer/auto-do-slubu-volvoxc60.jpg',
+    '/images/szofer/auto-do-slubu-volvoxc60.jpg',
     'https://via.placeholder.com/700x462/8e8e8e/FFFFFF',
     'https://via.placeholder.com/700x462/52596b/FFFFFF',
     'https://via.placeholder.com/700x463/8e8e8e/FFFFFF',

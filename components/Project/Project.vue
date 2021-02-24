@@ -78,24 +78,6 @@ const projectData = [
     title: 'Vivamus sit amet',
     desc:
       'Ut sed eros finibus, placerat orci id, dapibus mauris. Vestibulum consequat…'
-  },
-  {
-    img: imgAPI.architect[1],
-    title: 'Vivamus sit amet',
-    desc:
-      'Ut sed eros finibus, placerat orci id, dapibus mauris. Vestibulum consequat…'
-  },
-  {
-    img: imgAPI.architect[2],
-    title: 'Vivamus sit amet',
-    desc:
-      'Ut sed eros finibus, placerat orci id, dapibus mauris. Vestibulum consequat…'
-  },
-  {
-    img: imgAPI.architect[3],
-    title: 'Vivamus sit amet',
-    desc:
-      'Ut sed eros finibus, placerat orci id, dapibus mauris. Vestibulum consequat…'
   }
 ]
 
@@ -116,7 +98,7 @@ export default {
         infinite: false,
         speed: 500,
         autoplay: false,
-        slidesToShow: 4,
+        slidesToShow: 2,
         arrows: false,
         variableWidth: true,
         responsive: [
